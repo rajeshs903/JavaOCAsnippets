@@ -1,7 +1,5 @@
 package langaugeFundamentals;
-import java.lang.*;
 import java.io.*;
-import java.lang.reflect.Array;
 
 public class ArraySortingDesc {
 
