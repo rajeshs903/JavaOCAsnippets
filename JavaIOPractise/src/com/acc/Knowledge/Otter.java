@@ -31,3 +31,4 @@ class Toy{
 		this.containsIce=true;
 	}
 }
+
