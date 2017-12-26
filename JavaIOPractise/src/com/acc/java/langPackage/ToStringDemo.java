@@ -9,6 +9,7 @@ public class ToStringDemo {
 		Student s=new Student("rajesh",1229);
 		System.out.println(s.toString());
 		System.out.println(s);
+		System.out.println("Hello");
 		ToStringInListDemo.addSomeElements();
 		
 		
